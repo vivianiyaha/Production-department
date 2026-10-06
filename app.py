@@ -40,7 +40,7 @@ DATE_FMT = "%d/%m/%y"  # e.g. 13/08/26
 
 VIEWS = ["Daily Entry & Tracking", "Monthly", "Quarterly", "Yearly Performance Summary"]
 SHIFTS = ["Morning", "Afternoon", "Night"]
-MACHINES = ["MATICA 1", "MATICA 2", "MS 5000-1", "MS 5000-2", "PIOTEC-1", "PIOTEC-2"]
+MACHINES = ["MATICA 1", "MATICA 2", "MS-5000 1", "MS-5000 2", "PIOTEC 1", "PIOTEC 2"]
 DEFAULT_OPERATORS = ["Jennifer", "Emmanuel", "Godday", "Kingsley", "Judith", "Naomi"]
 DEFAULT_CLIENTS = ["Opay", "Polaris", "Moniepoint", "Access Bank", "GTBank", "Zenith Bank"]
 DEFAULT_CARDS = ["Verve", "Afrigo", "Mastercard", "Visa"]
